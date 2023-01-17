@@ -27,20 +27,7 @@
       "id": 2
     },
     {
-      "photo": "/static/media/std-img.1b2622295b2165193efd.jpg",
-      "fname": "loki",
-      "lname": "007",
-      "fathern": "Gambhir",
-      "email": "lokiatstarline@gmail.com",
-      "address": "abcde",
-      "phone": "8468092173",
-      "gender": "male",
-      "dob": "2023-01-13",
-      "country": "USA",
-      "id": 3
-    },
-    {
-      "photo": "/static/media/std-img.1b2622295b2165193efd.jpg",
+      "photo": "/student_registration/static/media/std-img.1b2622295b2165193efd.jpg",
       "fname": "new",
       "lname": "Attri",
       "fathern": "Gambhir",
@@ -51,6 +38,19 @@
       "dob": "1992-01-04",
       "country": "USA",
       "id": 4
+    },
+    {
+      "photo": "/student_registration/static/media/std-img.1b2622295b2165193efd.jpg",
+      "fname": "loki",
+      "lname": "007",
+      "fathern": "Gambhir",
+      "email": "abc@gmail",
+      "address": "loki",
+      "phone": "8468092173",
+      "gender": "male",
+      "dob": "2023-01-17",
+      "country": "China",
+      "id": 5
     }
   ]
 }
