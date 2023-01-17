@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/student_registration/static/css/main.27865b68.css",
+    "main.js": "/student_registration/static/js/main.fe5a6db3.js",
+    "static/js/787.f38fba5f.chunk.js": "/student_registration/static/js/787.f38fba5f.chunk.js",
+    "static/media/std-img.jpg": "/student_registration/static/media/std-img.1b2622295b2165193efd.jpg",
+    "index.html": "/student_registration/index.html",
+    "main.27865b68.css.map": "/student_registration/static/css/main.27865b68.css.map",
+    "main.fe5a6db3.js.map": "/student_registration/static/js/main.fe5a6db3.js.map",
+    "787.f38fba5f.chunk.js.map": "/student_registration/static/js/787.f38fba5f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.27865b68.css",
+    "static/js/main.fe5a6db3.js"
+  ]
+}
