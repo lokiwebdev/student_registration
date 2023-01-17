@@ -1,0 +1,56 @@
+{
+  "student": [
+    {
+      "photo": "https://png.pngtree.com/png-clipart/20190922/original/pngtree-business-male-user-avatar-vector-png-image_4774078.jpg",
+      "fname": "Lokinder",
+      "lname": "Singh",
+      "fathern": "Gambhir Singh",
+      "email": "loki@gmail.com",
+      "address": "AFV Residence, GNC",
+      "phone": "8468092173",
+      "gender": "male",
+      "dob": "2023-01-19",
+      "country": "India",
+      "id": 1
+    },
+    {
+      "photo": "https://png.pngtree.com/png-vector/20190223/ourmid/pngtree-student-glyph-black-icon-png-image_691145.jpg",
+      "fname": "Lokesh",
+      "lname": "Attri",
+      "fathern": "G Singh",
+      "email": "loki@g",
+      "address": "Chiloda",
+      "phone": "123456",
+      "gender": "male",
+      "dob": "1992-10-24",
+      "country": "India",
+      "id": 2
+    },
+    {
+      "photo": "/static/media/std-img.1b2622295b2165193efd.jpg",
+      "fname": "loki",
+      "lname": "007",
+      "fathern": "Gambhir",
+      "email": "lokiatstarline@gmail.com",
+      "address": "abcde",
+      "phone": "8468092173",
+      "gender": "male",
+      "dob": "2023-01-13",
+      "country": "USA",
+      "id": 3
+    },
+    {
+      "photo": "/static/media/std-img.1b2622295b2165193efd.jpg",
+      "fname": "new",
+      "lname": "Attri",
+      "fathern": "Gambhir",
+      "email": "sonam@gmail.com",
+      "address": "new house",
+      "phone": "8468092173",
+      "gender": "female",
+      "dob": "1992-01-04",
+      "country": "USA",
+      "id": 4
+    }
+  ]
+}
